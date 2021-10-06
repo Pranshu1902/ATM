@@ -1,3 +1,3 @@
 # ATM
 
-ATM in command prompt using Python
+ATM in GUI and command prompt using Python
